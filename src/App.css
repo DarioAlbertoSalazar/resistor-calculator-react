@@ -48,9 +48,10 @@ select {
   background-color: antiquewhite;
   width: 150px;
   position: fixed; 
-  top: 20%; 
+  top: 30%; 
   left: 50%;
-  transform: translate(-50%, -50%); 
+  transform: translate(-50%, -50%);
+  border-left: color(green);
 }
 
 .banda{

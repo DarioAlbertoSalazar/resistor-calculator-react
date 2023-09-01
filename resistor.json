@@ -1,0 +1,104 @@
+[{
+  "_id": {
+    "$oid": "64f15a57bb9f780026557d43"
+  },
+  "color": "pink",
+  "value": -3,
+  "tolerance": null
+},
+{
+  "_id": {
+    "$oid": "64f15a57bb9f780026557d44"
+  },
+  "color": "silver",
+  "value": -2,
+  "tolerance": 10
+},
+{
+  "_id": {
+    "$oid": "64f15a57bb9f780026557d45"
+  },
+  "color": "gold",
+  "value": -1,
+  "tolerance": 5
+},
+{
+  "_id": {
+    "$oid": "64f15a57bb9f780026557d46"
+  },
+  "color": "black",
+  "value": 0,
+  "tolerance": null
+},
+{
+  "_id": {
+    "$oid": "64f15a57bb9f780026557d47"
+  },
+  "color": "brown",
+  "value": 1,
+  "tolerance": 1
+},
+{
+  "_id": {
+    "$oid": "64f15a57bb9f780026557d48"
+  },
+  "color": "red",
+  "value": 2,
+  "tolerance": 2
+},
+{
+  "_id": {
+    "$oid": "64f15a57bb9f780026557d49"
+  },
+  "color": "orange",
+  "value": 3,
+  "tolerance": 0.05
+},
+{
+  "_id": {
+    "$oid": "64f15a57bb9f780026557d4a"
+  },
+  "color": "yellow",
+  "value": 4,
+  "tolerance": 0.02
+},
+{
+  "_id": {
+    "$oid": "64f15a57bb9f780026557d4b"
+  },
+  "color": "green",
+  "value": 5,
+  "tolerance": 0.5
+},
+{
+  "_id": {
+    "$oid": "64f15a57bb9f780026557d4c"
+  },
+  "color": "blue",
+  "value": 6,
+  "tolerance": 0.25
+},
+{
+  "_id": {
+    "$oid": "64f15a57bb9f780026557d4d"
+  },
+  "color": "violet",
+  "value": 7,
+  "tolerance": 0.1
+},
+{
+  "_id": {
+    "$oid": "64f15a57bb9f780026557d4e"
+  },
+  "color": "gray",
+  "value": 8,
+  "tolerance": 0.01
+},
+{
+  "_id": {
+    "$oid": "64f15a57bb9f780026557d4f"
+  },
+  "color": "white",
+  "value": 9,
+  "tolerance": null
+}]
