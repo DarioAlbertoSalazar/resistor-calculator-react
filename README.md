@@ -13,7 +13,7 @@ I use MongoDB so you need to create a database with mongo
 The Database Name will be: `resistor`
 The collection name: `resistordata`
 
-The json that you will need to fill the collection database it`s: resistor.json
+The json that you will need to fill the collection database is: resistor.json
 You can find the JSON file inside the project
 
 And in the end you can run the unit test with: `npm run test` or `npm test`
